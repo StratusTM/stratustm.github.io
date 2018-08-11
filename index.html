@@ -3,7 +3,29 @@
   <title>Stratus Network - Incrediwools</title>
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <!--<link rel="stylesheet2" href="css/stylesheet.css">-->
 
+<!--
+  <style>
+  .accordion-toggle.collapsed:after {
+    content: '\02C3';
+    font-size: 25px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+    margin-top: -25px;
+  }
+
+  .accordion-toggle:after {
+    content: "\02C5";
+    font-size: 25px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+    margin-top: -25px;
+  }
+  </style>
+-->
 </head>
 <body>
   <nav class="navbar" style="margin-bottom: 0px;">
@@ -23,41 +45,136 @@
     </ul>
   </nav>
   <hr style="margin-top: 0px;"/>
-  <header>
-    <h4 style="margin-bottom: 0px;">Round 1</h4>
-    <p style="color: gray;">Saturday 11:00am EDT</p>
-  </header>
-  <hr/>
-  <header>
-    <h4 style="margin-bottom: 0px;">Round 2</h4>
-    <p style="color: gray;">Saturday 12:00pm EDT</p>
-  </header>
-  <hr/>
-  <header>
-    <h4 style="margin-bottom: 0px;">Round 3</h4>
-    <p style="color: gray;">Saturday 1:00pm EDT</p>
-  </header>
-  <hr/>
-  <header>
-    <h4 style="margin-bottom: 0px;">Round 4</h4>
-    <p style="color: gray;">Saturday 2:00pm EDT</p>
-  </header>
-  <hr/>
-  <header>
-    <h4 style="margin-bottom: 0px;">Round 5</h4>
-    <p style="color: gray;">Sunday 11:00am EDT</p>
-  </header>
-  <hr/>
-  <header>
-    <h4 style="margin-bottom: 0px;">Round 6</h4>
-    <p style="color: gray;">Sunday 12:00pm EDT</p>
-  </header>
-  <hr/>
-  <header>
-    <h4 style="margin-bottom: 0px;">Round 7</h4>
-    <p style="color: gray;">Sunday 1:00pm EDT</p>
-  </header>
-  <hr/>
+
+  <div class="accordion" id="mainAccordian">
+    <!-- Round 1 -->
+    <div class="card" aria-controls="collapseSix" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false">
+      <div class="card-header" id="roundOne">
+        <h5 class="mb-0">
+          <a class="accordion-toggle collapsed">
+            <h4 style="margin-bottom:0px; color:black">Round 1</h4>
+            <p style="color:gray; font-size:75%; font-weight:400">
+              Saturday, August 11th at 11:00am EDT
+            </p>
+          </a>
+        </h5>
+      </div>
+      <div id="collapseOne" class="accordion-body collapse" aria-labelledby="roundOne" data-parent="#mainAccordian">
+        <div class="card-body">
+          Round 1 Info
+        </div>
+      </div>
+    </div>
+    <!-- Round 2 -->
+    <div class="card" aria-controls="collapseTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false">
+      <div class="card-header" id="roundTwo">
+        <h5 class="mb-0">
+          <a class="accordion-toggle collapsed">
+            <h4 style="margin-bottom:0px; color:black">Round 2</h4>
+            <p style="color:gray; font-size:75%; font-weight:400">
+              Saturday, August 11th at 12:00pm EDT
+            </p>
+          </a>
+        </h5>
+      </div>
+      <div id="collapseTwo" class="accordion-body collapse" aria-labelledby="roundTwo" data-parent="#mainAccordian">
+        <div class="card-body">
+          Round 2 Info
+        </div>
+      </div>
+    </div>
+    <!-- Round 3 -->
+    <div class="card" aria-controls="collapseThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false">
+      <div class="card-header" id="roundThree">
+        <h5 class="mb-0">
+          <a class="accordion-toggle collapsed">
+            <h4 style="margin-bottom:0px; color:black">Round 3</h4>
+            <p style="color:gray; font-size:75%; font-weight:400">
+              Saturday, August 11th at 1:00pm EDT
+            </p>
+          </a>
+        </h5>
+      </div>
+      <div id="collapseThree" class="accordion-body collapse" aria-labelledby="roundThree" data-parent="#mainAccordian">
+        <div class="card-body">
+          Round 3 Info
+        </div>
+      </div>
+    </div>
+    <!-- Round 4 -->
+    <div class="card" aria-controls="collapseFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false">
+      <div class="card-header" id="roundFour">
+        <h5 class="mb-0">
+          <a class="accordion-toggle collapsed">
+            <h4 style="margin-bottom:0px; color:black">Round 4</h4>
+            <p style="color:gray; font-size:75%; font-weight:400">
+              Saturday, August 11th at 2:00pm EDT
+            </p>
+          </a>
+        </h5>
+      </div>
+      <div id="collapseFour" class="accordion-body collapse" aria-labelledby="roundFour" data-parent="#mainAccordian">
+        <div class="card-body">
+          Round 4 Info
+        </div>
+      </div>
+    </div>
+    <!-- Round 5 -->
+    <div class="card" aria-controls="collapseFive" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false">
+      <div class="card-header" id="roundFive">
+        <h5 class="mb-0">
+          <a class="accordion-toggle collapsed">
+            <h4 style="margin-bottom:0px; color:black">Round 5</h4>
+            <p style="color:gray; font-size:75%; font-weight:400">
+              Sunday, August 12th at 11:00am EDT
+            </p>
+          </a>
+        </h5>
+      </div>
+      <div id="collapseFive" class="accordion-body collapse" aria-labelledby="roundFive" data-parent="#mainAccordian">
+        <div class="card-body">
+          Round 5 Info
+        </div>
+      </div>
+    </div>
+    <!-- Round 6 -->
+    <div class="card" aria-controls="collapseSix" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false">
+      <div class="card-header" id="roundSix">
+        <h5 class="mb-0">
+          <a class="accordion-toggle collapsed">
+            <h4 style="margin-bottom:0px; color:black">Round 6</h4>
+            <p style="color:gray; font-size:75%; font-weight:400">
+              Sunday, August 12th at 12:00pm EDT
+            </p>
+          </a>
+        </h5>
+      </div>
+      <div id="collapseSix" class="accordion-body collapse" aria-labelledby="roundSix" data-parent="#mainAccordian">
+        <div class="card-body">
+          Round 6 Info
+        </div>
+      </div>
+    </div>
+    <!-- Round 7 -->
+    <div class="card" aria-controls="collapseSeven" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false">
+      <div class="card-header" id="roundSeven">
+        <h5 class="mb-0">
+          <a class="accordion-toggle collapsed">
+            <h4 style="margin-bottom:0px; color:black">Round 7</h4>
+            <p style="color:gray; font-size:75%; font-weight:400">
+              Sunday, August 12th at 1:00pm EDT
+            </p>
+          </a>
+        </h5>
+      </div>
+      <div id="collapseSeven" class="accordion-body collapse" aria-labelledby="roundSeven" data-parent="#mainAccordian">
+        <div class="card-body">
+          Round 7 Info
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
