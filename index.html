@@ -48,8 +48,8 @@
 
   <div class="accordion" id="mainAccordian">
     <!-- Round 1 -->
-    <div class="card" aria-controls="collapseSix" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false">
-      <div class="card-header" id="roundOne">
+    <div class="card">
+      <div class="card-header" id="roundOne" aria-controls="collapseOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false">
         <h5 class="mb-0">
           <a class="accordion-toggle collapsed">
             <h4 style="margin-bottom:0px; color:black">Round 1</h4>
@@ -61,13 +61,139 @@
       </div>
       <div id="collapseOne" class="accordion-body collapse" aria-labelledby="roundOne" data-parent="#mainAccordian">
         <div class="card-body">
-          Round 1 Info
+          <div class="row">
+            <div class="col-sm-4">
+              <!-- Game One -->
+              <table class="table table-borderless table-sm">
+                <thead class="thead-dark">
+                  <tr>
+                    <th scope="col" class="text-center">Team</th>
+                    <th scope="col" class="text-center">Wools</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="text-center">Team A</td>
+                    <td class="text-center">TeamAWools</td>
+                  </tr>
+                  <tr>
+                    <td class="text-center">Team B</td>
+                    <td class="text-center">TeamBWools</td>
+                  </tr>
+                </tbody>
+              </table>
+              <div class="accordion" id="gameOne">
+                <div class="card" aria-controls="detailsOne" data-toggle="collapse" data-target="#detailsOne" aria-expanded="false">
+                  <div class="card-header" id="summaryOne">
+                    <h5 class="mb-0">
+                      <a class="accordion-toggle collapsed">
+                        <p style="color:gray; font-size:75%;">
+                          Time Remaining: 99:99
+                        </p>
+                        <p style="font-size:75%; line-height:0.3">
+                          Click For More Details
+                        </p>
+                      </a>
+                    </h5>
+                  </div>
+                <div id="detailsOne" class="accordion-body collapse" aria-labelledby="summaryOne" data-parent="#gameOne">
+                  <div class="card-body">
+                    Game 1 Details
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <!-- Game Two -->
+            <table class="table table-borderless table-sm">
+              <thead class="thead-dark">
+                <tr>
+                  <th scope="col" class="text-center">Team</th>
+                  <th scope="col" class="text-center">Wools</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="text-center">Team A</td>
+                  <td class="text-center">TeamAWools</td>
+                </tr>
+                <tr>
+                  <td class="text-center">Team B</td>
+                  <td class="text-center">TeamBWools</td>
+                </tr>
+              </tbody>
+            </table>
+            <div class="accordion" id="gameTwo">
+              <div class="card" aria-controls="detailsTwo" data-toggle="collapse" data-target="#detailsTwo" aria-expanded="false">
+                <div class="card-header" id="summaryTwo">
+                  <h5 class="mb-0">
+                    <a class="accordion-toggle collapsed">
+                      <p style="color:gray; font-size:75%;">
+                        Time Remaining: 99:99
+                      </p>
+                      <p style="font-size:75%; line-height:0.3">
+                        Click For More Details
+                      </p>
+                    </a>
+                  </h5>
+                </div>
+                <div id="detailsTwo" class="accordion-body collapse" aria-labelledby="summaryTwo" data-parent="#gameTwo">
+                  <div class="card-body">
+                    Game 3 Details
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <!-- Game Three -->
+            <table class="table table-borderless table-sm">
+              <thead class="thead-dark">
+                <tr>
+                  <th scope="col" class="text-center">Team</th>
+                  <th scope="col" class="text-center">Wools</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="text-center">Team A</td>
+                  <td class="text-center">TeamAWools</td>
+                </tr>
+                <tr>
+                  <td class="text-center">Team B</td>
+                  <td class="text-center">TeamBWools</td>
+                </tr>
+              </tbody>
+            </table>
+            <div class="accordion" id="gameThree">
+              <div class="card" aria-controls="detailsThree" data-toggle="collapse" data-target="#detailsThree" aria-expanded="false">
+                <div class="card-header" id="summaryThree">
+                  <h5 class="mb-0">
+                    <a class="accordion-toggle collapsed">
+                      <p style="color:gray; font-size:75%;">
+                        Time Remaining: 99:99
+                      </p>
+                      <p style="font-size:75%; line-height:0.3">
+                        Click For More Details
+                      </p>
+                    </a>
+                  </h5>
+                </div>
+                <div id="detailsThree" class="accordion-body collapse" aria-labelledby="summaryThree" data-parent="#gameThree">
+                  <div class="card-body">
+                    Game 3 Details
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
     <!-- Round 2 -->
-    <div class="card" aria-controls="collapseTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false">
-      <div class="card-header" id="roundTwo">
+    <div class="card">
+      <div class="card-header" id="roundTwo" aria-controls="collapseTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false">
         <h5 class="mb-0">
           <a class="accordion-toggle collapsed">
             <h4 style="margin-bottom:0px; color:black">Round 2</h4>
@@ -84,8 +210,8 @@
       </div>
     </div>
     <!-- Round 3 -->
-    <div class="card" aria-controls="collapseThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false">
-      <div class="card-header" id="roundThree">
+    <div class="card">
+      <div class="card-header" id="roundThree" aria-controls="collapseThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false">
         <h5 class="mb-0">
           <a class="accordion-toggle collapsed">
             <h4 style="margin-bottom:0px; color:black">Round 3</h4>
@@ -102,8 +228,8 @@
       </div>
     </div>
     <!-- Round 4 -->
-    <div class="card" aria-controls="collapseFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false">
-      <div class="card-header" id="roundFour">
+    <div class="card">
+      <div class="card-header" id="roundFour" aria-controls="collapseFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false">
         <h5 class="mb-0">
           <a class="accordion-toggle collapsed">
             <h4 style="margin-bottom:0px; color:black">Round 4</h4>
@@ -120,8 +246,8 @@
       </div>
     </div>
     <!-- Round 5 -->
-    <div class="card" aria-controls="collapseFive" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false">
-      <div class="card-header" id="roundFive">
+    <div class="card">
+      <div class="card-header" id="roundFive" aria-controls="collapseFive" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false">
         <h5 class="mb-0">
           <a class="accordion-toggle collapsed">
             <h4 style="margin-bottom:0px; color:black">Round 5</h4>
@@ -138,8 +264,8 @@
       </div>
     </div>
     <!-- Round 6 -->
-    <div class="card" aria-controls="collapseSix" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false">
-      <div class="card-header" id="roundSix">
+    <div class="card">
+      <div class="card-header" id="roundSix" aria-controls="collapseSix" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false">
         <h5 class="mb-0">
           <a class="accordion-toggle collapsed">
             <h4 style="margin-bottom:0px; color:black">Round 6</h4>
@@ -156,8 +282,8 @@
       </div>
     </div>
     <!-- Round 7 -->
-    <div class="card" aria-controls="collapseSeven" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false">
-      <div class="card-header" id="roundSeven">
+    <div class="card">
+      <div class="card-header" id="roundSeven" aria-controls="collapseSeven" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false">
         <h5 class="mb-0">
           <a class="accordion-toggle collapsed">
             <h4 style="margin-bottom:0px; color:black">Round 7</h4>
