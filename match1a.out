@@ -16,10 +16,10 @@
       </tr>
       <tr> 
        <td class="text-center">Night Doobers</td> 
-       <td class="text-center"><span class="uncapped" style="color: rgb(53,70,27);">■</span><span class="uncapped">■</span></td> 
+       <td class="text-center"><span class="uncapped" style="color: rgb(65,174,56);">■</span><span class="uncapped" style="color: rgb(53,70,27);">■</span></td> 
       </tr>
      </tbody> 
-    </table> <p class="match-status">Game 1 - Union (6:38)</p> 
+    </table> <p class="match-status">Game 1 - Union (7:12)</p> 
     <hr> 
     <div class="collapse" id="details-1a" aria-expanded="false" style="margin-left:0px"> 
      <table class="tablesorter" style="font-size: 75%; table-layout: fixed;"> 
@@ -35,65 +35,47 @@
        <tr> 
         <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Stop Recycling] Cyclops</span> </a> </th> 
         <td>5</td> 
+        <td>6</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Stop Recycling] Leftu</span> </a> </th> 
+        <td>5</td> 
+        <td>5</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Stop Recycling] Zeprix</span> </a> </th> 
+        <td>2</td> 
+        <td>5</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Stop Recycling] Gabey</span> </a> </th> 
+        <td>3</td> 
+        <td>1</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Stop Recycling] sOmEaNiMal</span> </a> </th> 
+        <td>1</td> 
         <td>5</td> 
         <td>0</td> 
        </tr>
        <tr> 
         <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Stop Recycling] bjr201111</span> </a> </th> 
         <td>2</td> 
-        <td>2</td> 
-        <td>1</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Stop Recycling] Leftu</span> </a> </th> 
-        <td>5</td> 
         <td>3</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Stop Recycling] Gabey</span> </a> </th> 
-        <td>2</td> 
         <td>1</td> 
-        <td>0</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Stop Recycling] Zeprix</span> </a> </th> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] _ZkR</span> </a> </th> 
+        <td>3</td> 
         <td>2</td> 
-        <td>4</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Stop Recycling] sOmEaNiMal</span> </a> </th> 
-        <td>1</td> 
-        <td>4</td> 
         <td>0</td> 
        </tr>
        <tr> 
         <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] zSwagger</span> </a> </th> 
-        <td>0</td> 
-        <td>0</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] jhaltgoodguy</span> </a> </th> 
-        <td>1</td> 
-        <td>3</td> 
-        <td>1</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] Kenel</span> </a> </th> 
-        <td>4</td> 
-        <td>7</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] weaboo511</span> </a> </th> 
-        <td>6</td> 
-        <td>1</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] subibi</span> </a> </th> 
         <td>0</td> 
         <td>0</td> 
         <td>0</td> 
@@ -105,6 +87,30 @@
         <td>0</td> 
        </tr>
        <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] weaboo511</span> </a> </th> 
+        <td>7</td> 
+        <td>1</td> 
+        <td>1</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] Kenel</span> </a> </th> 
+        <td>4</td> 
+        <td>7</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] jhaltgoodguy</span> </a> </th> 
+        <td>3</td> 
+        <td>4</td> 
+        <td>1</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] subibi</span> </a> </th> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
         <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] LOGRO</span> </a> </th> 
         <td>0</td> 
         <td>0</td> 
@@ -112,14 +118,8 @@
        </tr>
        <tr> 
         <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] GameSense</span> </a> </th> 
-        <td>2</td> 
         <td>3</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Night Doobers] _ZkR</span> </a> </th> 
-        <td>1</td> 
-        <td>2</td> 
+        <td>3</td> 
         <td>0</td> 
        </tr>
       </tbody> 
