@@ -110,7 +110,7 @@ public class Update {
         playerElement.appendTo(tbody);
       }
 
-      File output = new File("match" + match.getUrl().toString().substring(match.getUrl().toString().length() - 4, match.getUrl().toString().length()) + ".out");
+      File output = new File("match" + line[0] + ".out");
       FileWriter writer = new FileWriter(output);
       String html = document.body().children().first().toString();
       html = html.replace("%GAME%", line[0]);
