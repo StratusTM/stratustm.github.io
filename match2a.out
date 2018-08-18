@@ -1,0 +1,144 @@
+<div class="col-sm-4"> 
+ <div class="card"> 
+  <div class="accordion-body collapse show" id="header-2a" data-toggle="collapse" data-target="#collapse-2a" data-parent="#accordion-2"> 
+   <a class="accordion-toggle collapsed show"> 
+    <table class="table table-borderless table-sm"> 
+     <thead class="thead-dark"> 
+      <tr style="font-weight:lighter"> 
+       <th scope="col" class="text-center">Team</th> 
+       <th scope="col" class="text-center">Wools</th> 
+      </tr> 
+     </thead> 
+     <tbody>
+      <tr> 
+       <td class="text-center">Fussion</td> 
+       <td class="text-center"><span class="uncapped" style="color: rgb(208,132,153);">■</span><span class="uncapped">■</span></td> 
+      </tr>
+      <tr> 
+       <td class="text-center">Tribe</td> 
+       <td class="text-center"><span class="uncapped" style="color: rgb(53,70,27);">■</span><span class="uncapped">■</span></td> 
+      </tr>
+     </tbody> 
+    </table> <p class="match-status">Game 1 - Safari (11:46)</p> 
+    <hr> 
+    <div class="collapse" id="details-2a" aria-expanded="false" style="margin-left:0px"> 
+     <table class="tablesorter" style="font-size: 75%; table-layout: fixed;"> 
+      <tbody>
+       <tr> 
+        <th scope="col">Player</th> 
+        <th scope="col" style="word-wrap: normal; width: 25px" title="Kills">K</th> 
+        <th scope="col" style="width: 25px" title="Deaths">D</th> 
+        <th scope="col" style="width: 25px" title="Wools">W</th> 
+       </tr>  
+      </tbody>
+      <tbody>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Fussion] M3sch</span> </a> </th> 
+        <td>4</td> 
+        <td>3</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Fussion] Caerry</span> </a> </th> 
+        <td>5</td> 
+        <td>5</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Fussion] soretedetomcus</span> </a> </th> 
+        <td>0</td> 
+        <td>1</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Fussion] tomqss</span> </a> </th> 
+        <td>2</td> 
+        <td>2</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Fussion] BryanRC11</span> </a> </th> 
+        <td>4</td> 
+        <td>1</td> 
+        <td>1</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Fussion] Orcrux</span> </a> </th> 
+        <td>7</td> 
+        <td>6</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Fussion] predaa_</span> </a> </th> 
+        <td>0</td> 
+        <td>7</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Fussion] SinnesWolf</span> </a> </th> 
+        <td>1</td> 
+        <td>1</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Fussion] Bipolardo</span> </a> </th> 
+        <td>4</td> 
+        <td>6</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Tribe] Nachhu</span> </a> </th> 
+        <td>1</td> 
+        <td>4</td> 
+        <td>1</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Tribe] minecraftsydney</span> </a> </th> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Tribe] hipstr</span> </a> </th> 
+        <td>9</td> 
+        <td>4</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Tribe] Legoche</span> </a> </th> 
+        <td>0</td> 
+        <td>2</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Tribe] 1gg</span> </a> </th> 
+        <td>6</td> 
+        <td>5</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Tribe] Vijf</span> </a> </th> 
+        <td>4</td> 
+        <td>4</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Tribe] minecraftclaf</span> </a> </th> 
+        <td>5</td> 
+        <td>4</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[Tribe] Valkyh</span> </a> </th> 
+        <td>7</td> 
+        <td>5</td> 
+        <td>0</td> 
+       </tr>
+      </tbody> 
+     </table> 
+    </div> </a>
+   <a data-target="#details-2a" data-toggle="collapse" style="cursor: pointer;" class="collapsed" aria-expanded="false"> </a>
+   <p class="more-info"><a data-target="#details-2a" data-toggle="collapse" style="cursor: pointer;" class="collapsed" aria-expanded="false">Toggle match details </a>  </p>
+  </div> 
+ </div> 
+</div>

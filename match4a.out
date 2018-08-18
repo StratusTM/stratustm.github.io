@@ -1,0 +1,156 @@
+<div class="col-sm-4"> 
+ <div class="card"> 
+  <div class="accordion-body collapse show" id="header-4a" data-toggle="collapse" data-target="#collapse-4a" data-parent="#accordion-4"> 
+   <a class="accordion-toggle collapsed show"> 
+    <table class="table table-borderless table-sm"> 
+     <thead class="thead-dark"> 
+      <tr style="font-weight:lighter"> 
+       <th scope="col" class="text-center">Team</th> 
+       <th scope="col" class="text-center">Wools</th> 
+      </tr> 
+     </thead> 
+     <tbody>
+      <tr> 
+       <td class="text-center">SK Telecom T1</td> 
+       <td class="text-center"><span class="uncapped" style="color: rgb(107,138,201);">■</span><span class="uncapped">■</span></td> 
+      </tr>
+      <tr> 
+       <td class="text-center">PointecK</td> 
+       <td class="text-center"><span class="uncapped" style="color: rgb(228,177,29);">■</span><span class="uncapped">■</span></td> 
+      </tr>
+     </tbody> 
+    </table> <p class="match-status">Game 1 - Gobi (6:12)</p> 
+    <hr> 
+    <div class="collapse" id="details-4a" aria-expanded="false" style="margin-left:0px"> 
+     <table class="tablesorter" style="font-size: 75%; table-layout: fixed;"> 
+      <tbody>
+       <tr> 
+        <th scope="col">Player</th> 
+        <th scope="col" style="word-wrap: normal; width: 25px" title="Kills">K</th> 
+        <th scope="col" style="width: 25px" title="Deaths">D</th> 
+        <th scope="col" style="width: 25px" title="Wools">W</th> 
+       </tr>  
+      </tbody>
+      <tbody>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[SK Telecom T1] Rau1</span> </a> </th> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[SK Telecom T1] Right</span> </a> </th> 
+        <td>2</td> 
+        <td>2</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[SK Telecom T1] Saltyshima</span> </a> </th> 
+        <td>5</td> 
+        <td>1</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[SK Telecom T1] 69jps69</span> </a> </th> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[SK Telecom T1] 10jps10</span> </a> </th> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[SK Telecom T1] fhsgvh</span> </a> </th> 
+        <td>2</td> 
+        <td>1</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[SK Telecom T1] Tomlas</span> </a> </th> 
+        <td>2</td> 
+        <td>1</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[SK Telecom T1] fhsvgh</span> </a> </th> 
+        <td>1</td> 
+        <td>3</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[SK Telecom T1] XUPH</span> </a> </th> 
+        <td>1</td> 
+        <td>2</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[SK Telecom T1] Sharkskill</span> </a> </th> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[SK Telecom T1] aresitu</span> </a> </th> 
+        <td>4</td> 
+        <td>0</td> 
+        <td>1</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[PointecK] Bbliz_x</span> </a> </th> 
+        <td>0</td> 
+        <td>3</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[PointecK] R3P1</span> </a> </th> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[PointecK] Dartho</span> </a> </th> 
+        <td>0</td> 
+        <td>4</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[PointecK] Tomeehk</span> </a> </th> 
+        <td>1</td> 
+        <td>3</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[PointecK] Sorx4s</span> </a> </th> 
+        <td>2</td> 
+        <td>2</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[PointecK] AaroniMacaroni</span> </a> </th> 
+        <td>0</td> 
+        <td>2</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[PointecK] Serajjevo</span> </a> </th> 
+        <td>3</td> 
+        <td>2</td> 
+        <td>1</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[PointecK] NotProblem</span> </a> </th> 
+        <td>4</td> 
+        <td>2</td> 
+        <td>0</td> 
+       </tr>
+      </tbody> 
+     </table> 
+    </div> </a>
+   <a data-target="#details-4a" data-toggle="collapse" style="cursor: pointer;" class="collapsed" aria-expanded="false"> </a>
+   <p class="more-info"><a data-target="#details-4a" data-toggle="collapse" style="cursor: pointer;" class="collapsed" aria-expanded="false">Toggle match details </a>  </p>
+  </div> 
+ </div> 
+</div>

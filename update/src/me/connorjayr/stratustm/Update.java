@@ -81,33 +81,35 @@ public class Update {
       tr = document.getElementsMatchingOwnText("%K%").first().parent();
       tbody = tr.parent();
       tbody.empty();
-      for (String player : profiles.keySet()) {
-        Element playerElement = tr.clone();
+      for (String team : match.getTeams().keySet()) {
+        for (String player : match.getTeams().get(team)) {
+          Element playerElement = tr.clone();
 
-        int k = 0;
-        int d = 0;
-        int w = 0;
-        for (PvpEncounter pvp : profiles.get(player).getPvpEncounters()) {
-          if (pvp.getMatch().equals(match.getUrl())) {
-            if (pvp.getKiller().equalsIgnoreCase(player)) {
-              ++k;
-            } else {
-              ++d;
+          int k = 0;
+          int d = 0;
+          int w = 0;
+          for (PvpEncounter pvp : profiles.get(player).getPvpEncounters()) {
+            if (pvp.getMatch().equals(match.getUrl())) {
+              if (pvp.getKiller().equalsIgnoreCase(player)) {
+                ++k;
+              } else {
+                ++d;
+              }
             }
           }
-        }
-        for (Objective obj : profiles.get(player).getObjectives()) {
-          if (obj.getMatch().equals(match.getUrl())) {
-            ++w;
+          for (Objective obj : profiles.get(player).getObjectives()) {
+            if (obj.getMatch().equals(match.getUrl())) {
+              ++w;
+            }
           }
+
+          playerElement.getElementsMatchingOwnText("%PLAYER%").first().text("[" + team + "] " + player);
+          playerElement.getElementsMatchingOwnText("%K%").first().text(Integer.toString(k));
+          playerElement.getElementsMatchingOwnText("%D%").first().text(Integer.toString(d));
+          playerElement.getElementsMatchingOwnText("%W%").first().text(Integer.toString(w));
+
+          playerElement.appendTo(tbody);
         }
-
-        playerElement.getElementsMatchingOwnText("%PLAYER%").first().text(player);
-        playerElement.getElementsMatchingOwnText("%K%").first().text(Integer.toString(k));
-        playerElement.getElementsMatchingOwnText("%D%").first().text(Integer.toString(d));
-        playerElement.getElementsMatchingOwnText("%W%").first().text(Integer.toString(w));
-
-        playerElement.appendTo(tbody);
       }
 
       File output = new File("match" + line[0] + ".out");
