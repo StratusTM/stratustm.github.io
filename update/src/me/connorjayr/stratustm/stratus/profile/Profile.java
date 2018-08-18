@@ -60,29 +60,31 @@ public class Profile {
     }
 
     List<Objective> objectives = new ArrayList<>();
-    Element woolsPlaced = document.getElementsContainingOwnText("placed").first().parent().parent().parent();
-    Elements objectivesChildren = document.getElementById("objectives").children();
-    for (Element p : objectivesChildren.get(objectivesChildren.indexOf(woolsPlaced) + 1).getElementsByTag("p")) {
-      Element woolElement = p.getElementsByTag("strong").first();
+    try {
+      Element woolsPlaced = document.getElementsContainingOwnText("placed").first().parent().parent().parent();
+      Elements objectivesChildren = document.getElementById("objectives").children();
+      for (Element p : objectivesChildren.get(objectivesChildren.indexOf(woolsPlaced) + 1).getElementsByTag("p")) {
+        Element woolElement = p.getElementsByTag("strong").first();
 
-      String woolName = woolElement.text();
+        String woolName = woolElement.text();
 
-      String style = woolElement.attr("style");
-      String[] rgb = style.substring(style.indexOf('(') + 1, style.indexOf(')')).split(",");
-      Color color = new Color(Integer.parseInt(rgb[0]), Integer.parseInt(rgb[1]), Integer.parseInt(rgb[2]));
+        String style = woolElement.attr("style");
+        String[] rgb = style.substring(style.indexOf('(') + 1, style.indexOf(')')).split(",");
+        Color color = new Color(Integer.parseInt(rgb[0]), Integer.parseInt(rgb[1]), Integer.parseInt(rgb[2]));
 
-      Elements links = p.getElementsByTag("a");
-      String map = links.first().text();
-      URL match = null;
-      try {
-        match = new URL("https://stratus.network" + links.last().attr("href"));
-      } catch (MalformedURLException e) {
-        Update.logger().severe("Malformed URL for \"https://stratus.network" + links.last().attr("href") + "\"");
-        e.printStackTrace();
+        Elements links = p.getElementsByTag("a");
+        String map = links.first().text();
+        URL match = null;
+        try {
+          match = new URL("https://stratus.network" + links.last().attr("href"));
+        } catch (MalformedURLException e) {
+          Update.logger().severe("Malformed URL for \"https://stratus.network" + links.last().attr("href") + "\"");
+          e.printStackTrace();
+        }
+
+        objectives.add(new Wool(woolName, color, map, match));
       }
-
-      objectives.add(new Wool(woolName, color, map, match));
-    }
+    } catch (NullPointerException e) {}
 
     return new Profile(name, pvpEncounters, objectives);
   }

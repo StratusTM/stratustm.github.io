@@ -11,9 +11,8 @@ import java.io.IOException;
 import java.net.URL;
 import java.time.Duration;
 import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
-import java.util.Map;
 
 public class Match {
 
@@ -21,9 +20,9 @@ public class Match {
   private final String map;
   private final String server;
   private final Duration length;
-  private final Map<String, List<String>> teams;
+  private final LinkedHashMap<String, List<String>> teams;
 
-  private Match(URL url, String map, String server, Duration length, Map<String, List<String>> teams) {
+  private Match(URL url, String map, String server, Duration length, LinkedHashMap<String, List<String>> teams) {
     this.url = url;
     this.map = map;
     this.server = server;
@@ -51,7 +50,7 @@ public class Match {
     String[] time = matchLength.parent().ownText().split(":");
     Duration length = Duration.ofSeconds(Integer.parseInt(time[0]) * 60 + Integer.parseInt(time[1]));
 
-    Map<String, List<String>> teams = new HashMap<>();
+    LinkedHashMap<String, List<String>> teams = new LinkedHashMap<>();
 
     Elements teamDivs = document.getElementsByClass("col-md-4");
     for (int div = 3; div < teamDivs.size(); ++div) {
@@ -83,7 +82,7 @@ public class Match {
     return length;
   }
 
-  public Map<String, List<String>> getTeams() {
+  public LinkedHashMap<String, List<String>> getTeams() {
     return teams;
   }
 

@@ -1,0 +1,57 @@
+<div class="col-sm-4">
+  <div class="card">
+    <div class="card-header" id="header-%GAME%" data-toggle="collapse" class="accordion-body collapse show" data-target="#collapse-%GAME%" data-parent="#accordion-%GAME_NUM%">
+      <a class="accordion-toggle collapsed show">
+        <table class="table table-borderless table-sm">
+          <thead class="thead-dark">
+            <tr style="font-weight:lighter">
+              <th scope="col" class="text-center">Team</th>
+              <th scope="col" class="text-center">Wools</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="text-center">%TEAM%</td>
+              <td class="text-center">
+                <span class="uncapped">■</span>
+                <span class="uncapped">■</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="match-status">
+          Game 1 - %MAP% (%LENGTH%)
+        </p>
+        <hr/>
+
+        <div class="collapse" id="details-%GAME%" aria-expanded="false" style="margin-left:0px">
+          <table class="table table-sm table-striped" class="tablesorter" style="font-size: 75%; table-layout: fixed;">
+            <tr>
+              <th scope="col">Player</th>
+              <th scope="col" style="word-wrap: normal; width: 25px" title="Kills">K</th>
+              <th scope="col" style="width: 25px" title="Deaths">D</th>
+              <th scope="col" style="width: 25px" title="Wools">W</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th class="truncate" scope="row">
+                <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player">
+                  <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&overlay" align="left"/>
+                  <span>%PLAYER%</span>
+                </a>
+              </th>
+              <td>%K%</td>
+              <td>%D%</td>
+              <td>%W%</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <a data-target="#details-%GAME%" data-toggle="collapse" style="cursor: pointer;" class="collapsed" aria-expanded="false">
+        <p class="more-info">Toggle match details</span>
+        </a>
+      </a>
+    </div>
+  </div>
+</div>
