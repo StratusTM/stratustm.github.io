@@ -67,6 +67,9 @@ public class Update {
             }
           }
         }
+        if (wools == 2) {
+          teamElement.addClass("winning-team");
+        }
         while (wools < 2) {
           span.clone().appendTo(woolsElement);
           ++wools;

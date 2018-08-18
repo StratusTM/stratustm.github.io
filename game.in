@@ -1,6 +1,6 @@
 <div class="col-sm-4">
   <div class="card">
-    <div class="card-header" id="header-%GAME%" data-toggle="collapse" class="accordion-body collapse show" data-target="#collapse-%GAME%" data-parent="#accordion-%GAME_NUM%">
+    <div id="header-%GAME%" data-toggle="collapse" class="accordion-body collapse show card-header" data-target="#collapse-%GAME%" data-parent="#accordion-%GAME_NUM%">
       <a class="accordion-toggle collapsed show">
         <table class="table table-borderless table-sm">
           <thead class="thead-dark">
@@ -37,7 +37,7 @@
             <tr>
               <th class="truncate" scope="row">
                 <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player">
-                  <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&overlay" align="left"/>
+                  <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&overlay" align="left"/>
                   <span>%PLAYER%</span>
                 </a>
               </th>

@@ -1,6 +1,6 @@
 <div class="col-sm-4"> 
  <div class="card"> 
-  <div class="accordion-body collapse show" id="header-3a" data-toggle="collapse" data-target="#collapse-3a" data-parent="#accordion-3"> 
+  <div id="header-3a" data-toggle="collapse" class="accordion-body collapse show card-header" data-target="#collapse-3a" data-parent="#accordion-3"> 
    <a class="accordion-toggle collapsed show"> 
     <table class="table table-borderless table-sm"> 
      <thead class="thead-dark"> 
@@ -10,9 +10,9 @@
       </tr> 
      </thead> 
      <tbody>
-      <tr> 
+      <tr class="winning-team"> 
        <td class="text-center">ConnectionLost</td> 
-       <td class="text-center"><span class="uncapped" style="color: rgb(65,174,56);">■</span><span class="uncapped" style="color: rgb(53,70,27);">■</span></td> 
+       <td class="text-center"><span class="uncapped" style="color: rgb(53,70,27);">■</span><span class="uncapped" style="color: rgb(65,174,56);">■</span></td> 
       </tr>
       <tr> 
        <td class="text-center">GGeneSiS</td> 
@@ -33,121 +33,121 @@
       </tbody>
       <tbody>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[ConnectionLost] xBouh</span> </a> </th> 
-        <td>6</td> 
-        <td>0</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[ConnectionLost] Pedrah</span> </a> </th> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[ConnectionLost] Pedrah</span> </a> </th> 
         <td>4</td> 
         <td>4</td> 
         <td>0</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[ConnectionLost] Jelbian1505</span> </a> </th> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[ConnectionLost] NotChobo</span> </a> </th> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[ConnectionLost] Heldius</span> </a> </th> 
         <td>7</td> 
-        <td>5</td> 
-        <td>0</td> 
+        <td>1</td> 
+        <td>1</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[ConnectionLost] Kokiezi</span> </a> </th> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[ConnectionLost] Kokiezi</span> </a> </th> 
         <td>5</td> 
         <td>0</td> 
         <td>1</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[ConnectionLost] Hystericc</span> </a> </th> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[ConnectionLost] JantSide</span> </a> </th> 
+        <td>1</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[ConnectionLost] FLIMBI</span> </a> </th> 
         <td>0</td> 
         <td>0</td> 
         <td>0</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[ConnectionLost] FLIMBI</span> </a> </th> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[ConnectionLost] YaFueCarreo</span> </a> </th> 
+        <td>0</td> 
+        <td>7</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[ConnectionLost] Hystericc</span> </a> </th> 
         <td>0</td> 
         <td>0</td> 
         <td>0</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[ConnectionLost] NotChobo</span> </a> </th> 
-        <td>0</td> 
-        <td>0</td> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[ConnectionLost] Jelbian1505</span> </a> </th> 
+        <td>7</td> 
+        <td>5</td> 
         <td>0</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[ConnectionLost] biiip</span> </a> </th> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[ConnectionLost] biiip</span> </a> </th> 
         <td>9</td> 
         <td>7</td> 
         <td>0</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[ConnectionLost] JantSide</span> </a> </th> 
-        <td>1</td> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[ConnectionLost] xBouh</span> </a> </th> 
+        <td>6</td> 
         <td>0</td> 
         <td>0</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[ConnectionLost] YaFueCarreo</span> </a> </th> 
-        <td>0</td> 
-        <td>7</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[ConnectionLost] Heldius</span> </a> </th> 
-        <td>7</td> 
-        <td>1</td> 
-        <td>1</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[GGeneSiS] _m_m_</span> </a> </th> 
-        <td>3</td> 
-        <td>4</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[GGeneSiS] YaFuePickeoIvern</span> </a> </th> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[GGeneSiS] YaFuePickeoIvern</span> </a> </th> 
         <td>2</td> 
         <td>3</td> 
         <td>0</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[GGeneSiS] Curist_46</span> </a> </th> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[GGeneSiS] _m_m_</span> </a> </th> 
+        <td>3</td> 
+        <td>4</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[GGeneSiS] iLuminous</span> </a> </th> 
+        <td>5</td> 
+        <td>7</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[GGeneSiS] Curist_46</span> </a> </th> 
         <td>6</td> 
         <td>5</td> 
         <td>0</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[GGeneSiS] Chucko92</span> </a> </th> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[GGeneSiS] YaFueCarreo</span> </a> </th> 
+        <td>0</td> 
+        <td>7</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[GGeneSiS] PachiCarrizo</span> </a> </th> 
+        <td>0</td> 
+        <td>5</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[GGeneSiS] AndWand</span> </a> </th> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr>
+       <tr> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[GGeneSiS] Chucko92</span> </a> </th> 
         <td>1</td> 
         <td>4</td> 
         <td>0</td> 
        </tr>
        <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[GGeneSiS] AndWand</span> </a> </th> 
-        <td>0</td> 
-        <td>0</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[GGeneSiS] iLuminous</span> </a> </th> 
-        <td>5</td> 
-        <td>7</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[GGeneSiS] PachiCarrizo</span> </a> </th> 
-        <td>0</td> 
-        <td>5</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[GGeneSiS] YaFueCarreo</span> </a> </th> 
-        <td>0</td> 
-        <td>7</td> 
-        <td>0</td> 
-       </tr>
-       <tr> 
-        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/a43135a4-d7b9-49ab-ac8d-a16bb2513c8d?size=16&amp;overlay" align="left"> <span>[GGeneSiS] YaFueMeLosActivo</span> </a> </th> 
+        <th class="truncate" scope="row"> <a href="https://stratus.network/a43137a4-d7b9-49ab-ac8d-a16bb2513c8d" data-toggle="tooltip" title="Player"> <img src="https://crafatar.com/avatars/00000000-0000-0000-0000-000000000000?size=16&amp;overlay" align="left"> <span>[GGeneSiS] YaFueMeLosActivo</span> </a> </th> 
         <td>0</td> 
         <td>4</td> 
         <td>0</td> 
